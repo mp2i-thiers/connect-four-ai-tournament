@@ -4,6 +4,8 @@
 *.cmx
 *.o
 match
+run/ia1.ml
+run/ia2.ml
 
 tournoi.zip
 
